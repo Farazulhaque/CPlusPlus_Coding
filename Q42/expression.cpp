@@ -11,7 +11,6 @@ int main()
     y = pow(x, 2) / pow(z, 2);
 
     a = (pow(x, 2) + pow(y, 3) + pow(z, 4)) / (pow(a + b, 2) - d);
-    
-    
+
     return 0;
 }
